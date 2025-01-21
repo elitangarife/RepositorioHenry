@@ -1,2 +1,2 @@
 # RepositorioHenry
-Repositorio de Homework C2 Terminal, Git y GitHub
+Repositorio de Homework C2 Terminal, Git y GitHub terminada
